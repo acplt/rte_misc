@@ -4,10 +4,10 @@
  *  Created on: 24.09.2013
  *      Author: lars
  */
-#include "libov/ov_memstack.h"
-#include "libov/ov_ov.h"
-#include "libov/ov_string.h"
-#include "libov/ov_logfile.h"
+#include "ov_memstack.h"
+#include "ov_ov.h"
+#include "ov_string.h"
+#include "ov_logfile.h"
 #include "acplt_simpleMsgHandling.h"
 
 static OV_INT msgID = 0x48ad3548;

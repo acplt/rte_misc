@@ -4,11 +4,11 @@
 
 
 #include "MessageSys.h"
-#include "libov/ov_macros.h"
-#include "libov/ov_logfile.h"
-#include "libov/ov_path.h"
-#include "libov/ov_time.h"
-#include "libov/ov_result.h"
+#include "ov_macros.h"
+#include "ov_logfile.h"
+#include "ov_path.h"
+#include "ov_time.h"
+#include "ov_result.h"
 #include "MessageSys_helpers.h"
 #include "ksapi_commonFuncs.h"
 #include "acplt_simpleMsgHandling.h"

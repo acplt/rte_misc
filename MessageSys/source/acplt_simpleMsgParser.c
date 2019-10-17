@@ -1,6 +1,6 @@
 
-#include "libov/ov_memstack.h"
-#include "libov/ov_ov.h"
+#include "ov_memstack.h"
+#include "ov_ov.h"
 #include "acplt_simpleMsgHandling.h"
 
 #include <string.h>

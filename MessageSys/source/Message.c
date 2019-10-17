@@ -6,7 +6,7 @@
 #include "MessageSys.h"
 //#include "ServiceProviderConfig.h"
 
-#include "libov/ov_macros.h"
+#include "ov_macros.h"
 #include "MessageSys_helpers.h"
 #include <time.h>
 

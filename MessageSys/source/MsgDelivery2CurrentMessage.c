@@ -18,9 +18,9 @@
 
 
 #include "MessageSys.h"
-#include "libov/ov_association.h"
+#include "ov_association.h"
 
-#include "libov/ov_macros.h"
+#include "ov_macros.h"
 
 OV_IMPL_LINK(MessageSys_MsgDelivery2CurrentMessage)
 OV_IMPL_UNLINK(MessageSys_MsgDelivery2CurrentMessage)

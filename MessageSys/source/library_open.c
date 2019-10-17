@@ -23,12 +23,12 @@
 
 #include "MessageSys.h"
 #include "MessageSys_helpers.h"
-#include "libov/ov_macros.h"
-#include "libov/ov_logfile.h"
-#include "libov/ov_path.h"
-#include "libov/ov_time.h"
-#include "libov/ov_result.h"
-#include "libov/ov_library.h"
+#include "ov_macros.h"
+#include "ov_logfile.h"
+#include "ov_path.h"
+#include "ov_time.h"
+#include "ov_result.h"
+#include "ov_library.h"
 
 #ifdef ov_library_open_MessageSys
 #undef ov_library_open_MessageSys
