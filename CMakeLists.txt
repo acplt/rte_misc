@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(rte_misc)
+project(rte_misc C)
 
 # Include ov core (if it isn't already included)
 find_package(RTE)
