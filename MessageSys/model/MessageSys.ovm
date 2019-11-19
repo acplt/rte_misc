@@ -29,6 +29,7 @@ LIBRARY MessageSys
 	AUTHOR    = "";
 	COPYRIGHT = "";
 	COMMENT   = "";
+	LIBRARY_OPEN;
 	
 CLASS MsgDelivery : CLASS ksbase/ComTask
 	IS_INSTANTIABLE;
