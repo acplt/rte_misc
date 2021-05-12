@@ -12,6 +12,7 @@ include(${RTE_CMAKE_DIR}/ov_definitions.cmake)
 
 # Add message system library
 add_subdirectory(MessageSys)
+add_subdirectory(services)
 
 
 # Export all targets to make build tree importable via find_package(RTEfblib)
