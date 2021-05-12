@@ -15,7 +15,7 @@ add_subdirectory(MessageSys)
 add_subdirectory(services)
 
 
-# Export all targets to make build tree importable via find_package(RTEfblib)
+# Export all targets to make build tree importable via find_package(RTEMisc)
 # This does only make sense if this is the root project
 get_directory_property(hasParent PARENT_DIRECTORY)
 if(NOT hasParent)
