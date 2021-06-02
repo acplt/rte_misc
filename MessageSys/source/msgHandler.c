@@ -27,7 +27,7 @@
 #include "acplt_simpleMsgHandling.h"
 #include "MessageSys_helpers.h"
 #include <stdlib.h>
-#include <strings.h>
+#include <string.h>
 
 OV_DLLFNCEXPORT void MessageSys_msgHandler_startup(
 	OV_INSTPTR_ov_object 	pobj
